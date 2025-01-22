@@ -1,0 +1,50 @@
+
+.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+    z-index: 10;
+}
+.black{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    background-color: black;
+    left:170px;
+    bottom: 50px;
+    z-index: 1;
+}
+
+.light-green {
+    background-color: greenyellow;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 390px;
+    left: 250px;
+    z-index: 10
+}
+
+.yellow {
+    background-color: lightgreen;
+    position: relative;
+    margin: 150px;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.box {
+
+        width: 100px;
+        height: 100px;
+        background: red;
+        position: static;
+        float: right;
+        margin:3px;
+    }
+

@@ -1,0 +1,16 @@
+#Bolsa video{
+    width: 100%;
+    z-index: 2;
+    opacity: 0.3;
+    position: absolute;
+    object-fit: cover;
+}
+
+#Bolsa .texto{
+    z-index: 1;
+
+}
+
+#Bolsa .texto li{
+    margin-left: 3rem;
+}

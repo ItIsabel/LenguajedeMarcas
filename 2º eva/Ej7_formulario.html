@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>INDUSTRIAS STAR</h1>
+<FIELDset>
+    <legend>FORMULARIO DE PEDIDO</legend>
+    
+    <h4>> Paso 1. Identificacion</h4>
+    <div style="display: flex; flex-direction: row;">
+        <fieldset style="padding-right: 10rem;padding-top: 1rem;">
+            <legend>Datos del cliente</legend>
+            <label for="email">Correo electrónico</label>
+            <input type="email" id="email"><br>
+            <label for="password">Clave</label>
+            <input type="password" name="password" id="password"><br>
+            <span>(Longitud minima 6 caracteres)</span> <button style="padding: 5px;"> Enviar</button>
+        </fieldset>
+        <fieldset style="margin-left: 1rem;padding-top: 1rem;">
+            <legend>Tipo de cliente</legend>
+            <input type="radio" name="tipoCliente" value="Particular"> Particular<br>
+            <input type="radio" name="tipoCliente" value="Empresa"> Empresa<br>
+            <input type="radio" name="tipoCliente" value="Asociacion"> Asociacion <br>
+        </fieldset>
+    </div>
+    <h4>> Paso 2. Pedido</h4>
+    <div style="display: flex; flex-direction: row;">
+        <fieldset>
+            <legend>Datos del producto</legend>
+            <p>Producto</p>
+            <select multiple size="8" name="Producto" id="Producto">
+                <optgroup label="Armaduras" style="font-style: italic;">
+                    <option style="font-style: normal;" value="AR001"> AR001 Oro reluciente</option>
+                    <option style="font-style: normal;" value="AR002"> AR002 Plata pulida</option>
+                    <option style="font-style: normal;" value="AR003">AR003 Bronze Reforzado</option>
+                </optgroup>
+                <optgroup label="Extras" style="font-style: italic;">
+                    <option style="font-style: normal;" value="EX001">EX001 Escudo</option>
+                    <option style="font-style: normal;" value="EX002">EX002 Invisibilidad</option>
+                </optgroup>
+            </select>
+        </fieldset>
+        <fieldset style="display: flex;flex-direction: column;">
+            <legend>Informacion de interés</legend>
+            <label for="comentarios">Comentarios</label>
+            <textarea name="comentarios" rows="10" cols="50">Escriba aqui sus comentarios</textarea>
+            <span>
+                <input type="checkbox" name="check" id="publi">
+                <label for="publi">Acepto recibir informacion publicitaria</label>
+            </span>
+        </fieldset>
+    </div>
+</FIELDset>    
+</body>
+</html>

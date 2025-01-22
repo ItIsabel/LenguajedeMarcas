@@ -1,0 +1,56 @@
+
+DTDs para cada ejercicio:
+
+Ejercicio 1:
+<!ELEMENT receta (titulo, ingredientes, procedimiento)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!ELEMENT procedimiento (#PCDATA)>
+
+
+Ejercicio 2:
+<!ELEMENT aviso (titulo, (parrafo | grafico)*)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT grafico EMPTY>
+
+
+Ejercicio 3:
+<!ELEMENT aviso (titulo, parrafo+, grafico, parrafo+)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT grafico (#PCDATA)>
+
+
+Ejercicio 4:
+<!ELEMENT aviso ((parrafo | grafico)*, parrafo)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT grafico EMPTY>
+
+Ejercicio 5:
+<!ELEMENT nota (para, de, titulo, contenido)>
+<!ELEMENT para (#PCDATA)>
+<!ELEMENT de (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT contenido (#PCDATA)>
+
+
+
+----------------------------------
+formas.xml:
+El error en la documentación es que el elemento <otra> no tiene contenido. Para solucionar este problema, debemos agregarle un valor nulo como este:
+<Otros lados="7"/>
+
+
+empresas.xml:
+El error en es que el elemento <empresa> no tiene un atributo  nombre en la segunda empresa. Para corregirlo tenemos que añadir: 
+
+<empresa>Google</empresa>
+
+Artículos.xml:
+El error en este documento es que el elemento <articulo> tiene un atributo "nombre" que no está permitido por la DTD. Para corregirlo, tenemos que eliminar el atributo de nombre:
+XML
+
+<artículo color="rojo"/>
+<Artículo/>
+<artículo color="amarillo"/>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/isabe/.A%20PROGRAMACION/DAM/Lenguaje%20de%20marcas/EJERCICIOS/3%C2%BA%20eva/listaCds/listaMusica.xsl"?>
+<listaMusica>
+  <cd>
+    <titulo>El Madrileño</titulo>
+    <artista>C. Tangana</artista>
+    <cancion>
+      <tituloCancion>Tu Me Dejaste De Querer</tituloCancion>
+      <tiempoCancion>3:26</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Los Diablos</tituloCancion>
+      <tiempoCancion>2:56</tiempoCancion>
+    </cancion>
+    <sello>Sony Music</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>Mis Manos</titulo>
+    <artista>Camilo</artista>
+    <cancion>
+      <tituloCancion>Pesado</tituloCancion>
+      <tiempoCancion>3:09</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>El Mismo Aire</tituloCancion>
+      <tiempoCancion>3:26</tiempoCancion>
+    </cancion>
+    <sello>Universal Music Group</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>Future Nostalgia</titulo>
+    <artista>Dua Lipa</artista>
+    <cancion>
+      <tituloCancion>Levitating</tituloCancion>
+      <tiempoCancion>3:23</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Don't Start Now</tituloCancion>
+      <tiempoCancion>3:04</tiempoCancion>
+    </cancion>
+    <sello>Warner Music Group</sello>
+    <yr>2020</yr>
+  </cd>
+
+  <cd>
+    <titulo>Sanz</titulo>
+    <artista>Alejandro Sanz</artista>
+    <cancion>
+      <tituloCancion>Si Te Vas</tituloCancion>
+      <tiempoCancion>3:22</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Más</tituloCancion>
+      <tiempoCancion>4:26</tiempoCancion>
+    </cancion>
+    <sello>Universal Music Group</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>Vice Versa</titulo>
+    <artista>Rauw Alejandro</artista>
+    <cancion>
+      <tituloCancion>Todo De Ti</tituloCancion>
+      <tiempoCancion>3:02</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Desamor</tituloCancion>
+      <tiempoCancion>3:24</tiempoCancion>
+    </cancion>
+    <sello>Warner Music Group</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>11 Razones</titulo>
+    <artista>Aitana</artista>
+    <cancion>
+      <tituloCancion>11 Razones</tituloCancion>
+      <tiempoCancion>3:30</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Corazón Partío</tituloCancion>
+      <tiempoCancion>4:03</tiempoCancion>
+    </cancion>
+    <sello>Universal Music Group</sello>
+    <yr>2021</yr>
+  </cd>
+  <cd>
+    <titulo>Harry's House</titulo>
+    <artista>Harry Styles</artista>
+    <cancion>
+      <tituloCancion>As It Was</tituloCancion>
+      <tiempoCancion>2:47</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Late Night Talking</tituloCancion>
+      <tiempoCancion>2:57</tiempoCancion>
+    </cancion>
+    <sello>Columbia Records</sello>
+    <yr>2022</yr>
+  </cd>
+
+  <cd>
+    <titulo>=</titulo>
+    <artista>Ed Sheeran</artista>
+    <cancion>
+      <tituloCancion>Shivers</tituloCancion>
+      <tiempoCancion>3:58</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Bad Habits</tituloCancion>
+      <tiempoCancion>2:41</tiempoCancion>
+    </cancion>
+    <sello>Atlantic Records</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>Justice</titulo>
+    <artista>Justin Bieber</artista>
+    <cancion>
+      <tituloCancion>Peaches</tituloCancion>
+      <tiempoCancion>3:58</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Ghost</tituloCancion>
+      <tiempoCancion>2:33</tiempoCancion>
+    </cancion>
+    <sello>Def Jam Recordings</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>Sour</titulo>
+    <artista>Olivia Rodrigo</artista>
+    <cancion>
+      <tituloCancion>drivers license</tituloCancion>
+      <tiempoCancion>4:00</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>good 4 u</tituloCancion>
+      <tiempoCancion>4:11</tiempoCancion>
+    </cancion>
+    <sello>Geffen Records</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>Planet Her</titulo>
+    <artista>Doja Cat</artista>
+    <cancion>
+      <tituloCancion>Say So</tituloCancion>
+      <tiempoCancion>3:57</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Kiss Me More</tituloCancion>
+      <tiempoCancion>3:57</tiempoCancion>
+    </cancion>
+    <sello>RCA Records</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>When We Were Young</titulo>
+    <artista>Billie Eilish</artista>
+    <cancion>
+      <tituloCancion>Happier Than Ever</tituloCancion>
+      <tiempoCancion>4:58</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>NDA</tituloCancion>
+      <tiempoCancion>3:15</tiempoCancion>
+    </cancion>
+    <sello>Interscope Records</sello>
+    <yr>2021</yr>
+  </cd>
+
+  <cd>
+    <titulo>We</titulo>
+    <artista>Arcade Fire</artista>
+    <cancion>
+      <tituloCancion>The Lightning I, II</tituloCancion>
+      <tiempoCancion>5:03</tiempoCancion>
+    </cancion>
+    <cancion>
+      <tituloCancion>Unconditional I, II</tituloCancion>
+      <tiempoCancion>8:16</tiempoCancion>
+    </cancion>
+    <sello>Columbia Records</sello>
+    <yr>2022</yr>
+  </cd>
+</listaMusica>

@@ -1,0 +1,16 @@
+.div1{
+    background-color: #3399FF; 
+    width: 200px; 
+    height: 200px;
+}
+.div2{
+    background: radial-gradient(circle at center, #FF9933 0%, #33FF99 100%); 
+    width: 200px; 
+    height: 200px;
+}
+.div3{
+    background-image: url('https://s1.eestatic.com/2023/03/10/curiosidades/mascotas/747436034_231551832_1706x1280.jpg');
+    background-size: cover; 
+    width: 200px; 
+    height: 200px;
+}

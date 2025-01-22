@@ -1,0 +1,19 @@
+.ofertas{
+    background-color: #ffd700;
+    border: 2px solid #ff8c00;
+.ofertas li{
+    margin: 15px;
+}
+
+}
+.lista{
+    border-radius: 8px;
+}
+li{
+    margin: 10px;
+    padding: 18px;
+
+}
+#playa{
+    color: blue;
+}

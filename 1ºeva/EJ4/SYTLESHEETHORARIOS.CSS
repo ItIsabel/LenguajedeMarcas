@@ -1,0 +1,35 @@
+td{
+    align-content: center;
+    padding: 6px;
+
+}
+.FOL{
+    background-color: rgb(61, 59, 142);
+}
+.programacion{
+    background-color: rgb(104, 131, 186);
+}
+.entornos{
+    background-color: rgb(143, 163, 204);
+}
+.bases{
+    background-color: rgb(131, 188, 255);
+}
+.sistemas{
+    background-color: rgb(77, 210, 251);
+}
+.ingles{
+    background-color: rgb(225, 239, 246);
+}
+.lenguaje{
+    background-color: rgb(184, 188, 255);
+}
+thead{
+    background-color: rgb(211, 136, 167);
+}
+.dias{
+    background-color: rgb(227, 181, 200);
+}
+.horas,.recreo,tfoot{
+    background-color: rgb(227, 181, 200);
+}

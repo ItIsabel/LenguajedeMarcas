@@ -1,0 +1,16 @@
+/* Estilo para la primera letra */
+p::first-letter {
+    font-size: 2em; /* Tamaño más grande para la primera letra */
+    color: orange;
+}
+
+/* Estilo para el texto seleccionado */
+p::selection {
+    background-color: yellow; /* Cambia el color de fondo al seleccionar el texto */
+}
+
+/* Estilo para la lista ordenada */
+li::marker {
+    color: blue; /* Color azul para los números */
+    font-size: 30px;
+}

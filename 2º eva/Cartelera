@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<cine>
+<Pelicula id="1">
+<Titulo>'old school'</Titulo>
+<Pais>EEUU</Pais>
+<Duracion>93 minutos</Duracion>
+<Director>Todd Philips</Director>
+<Interpretes>Will Ferrel, Luke Wilson, Vince Vaughn, Jeremy Piven, Juliette Lewis, Sean William</Interpretes>
+<Sinopsis>Scott
+Mitch, Frank y Beanie son tres amigos treintañeros cuyas vidas no son exactamente lo que esperaban
+Mitch tiene una novia ninfomana que se mete en la cama con el primero que agarra.
+Frank se ha casadp y su matrimonio nada tiene que ver con las juergas salvajes
+que organizaban años atras. y Beanie es un padre de familia que se muere por recuperar su
+alocada juventud. pero las cosas cambian cuando Beanie sugiere que creen su propia 
+fraternidad, en la nueva casa que Mitch tiene junto al campus de la universidad. una ocasion para
+revivir tiempos gloriosos, hacer nuevos amigos y de volver a sus viejas, salvajes y desmadradas juergas de
+estudiantes.
+</Sinopsis>
+<URL> http://www.oldschool-themovie.com/</URL>
+<Clasificacion>Comedia autorizada para mayores de 16 años.</Clasificacion>
+</Pelicula>
+
+<Pelicula id="2">
+<Titulo>El Señor de los Anillos: La Comunidad del Anillo</Titulo>
+<Pais>Nueva Zelanda</Pais>
+<Duracion>178 minutos</Duracion>
+<Director>Peter Jackson</Director>
+<Interpretes>Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Orlando Bloom, Liv Tyler, Cate Blanchett, John Rhys-Davies, Christopher Lee...</Interpretes>
+<Sinopsis>
+Frodo Bolsón, un hobbit de la Comarca, hereda un anillo mágico de su tío Bilbo. El anillo
+es el Anillo Único, forjado por el Señor Oscuro Sauron para dominar la Tierra Media. Frodo debe
+emprender un viaje para destruir el Anillo en los fuegos de Mordor, el único lugar donde puede ser
+destruido. Lo acompaña una comunidad formada por hobbits, elfos, enanos, humanos y un mago.
+Juntos se enfrentarán a muchos peligros en su viaje hacia Mordor.
+</Sinopsis>
+<URL>https://www.imdb.com/title/tt0120737/</URL>
+<Clasificacion>Fantasía épica para todos los públicos</Clasificacion>
+</Pelicula>
+
+<Pelicula id="3">
+<Titulo>El Padrino</Titulo>
+<Pais>Estados Unidos</Pais>
+<Duracion>175 minutos</Duracion>
+<Director>Francis Ford Coppola</Director>
+<Interpretes>Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, Diane Keaton...</Interpretes>
+<Sinopsis>
+Vito Corleone es el jefe de una poderosa familia mafiosa de Nueva York. Cuando le hacen un
+atentado, su hijo menor, Michael, que no tenía nada que ver con los negocios familiares, se ve
+obligado a tomar el relevo y convertirse en el nuevo líder del clan. Michael debe enfrentarse a
+las luchas internas de la familia, a la guerra con otras bandas mafiosas y a la corrupción
+policial.
+</Sinopsis>
+<URL>https://www.imdb.com/title/tt0068646/</URL>
+<Clasificacion>Drama policíaco para mayores de 18 años</Clasificacion>
+</Pelicula>
+
+<Pelicula id="4">
+<Titulo>Amélie</Titulo>
+<Pais>Francia</Pais>
+<Duracion>120 minutos</Duracion>
+<Director>Jean-Pierre Jeunet</Director>
+<Interpretes>Audrey Tautou, Mathieu Kassovitz, Rufus, Yolande Moreau, Dominique Pinon, Artus de Penguern, Jamel Debbouze, Claire Maurier, Isabelle Nanty...</Interpretes>
+<Sinopsis>
+Amélie Poulain es una joven introvertida que trabaja como camarera en un pequeño café de Montmartre, París. Un día, encuentra una caja de recuerdos que perteneció a un antiguo inquilino de su apartamento. Amélie decide buscar al dueño de la caja y devolverle sus recuerdos. En el proceso, descubre que tiene un don para ayudar a las personas que la rodean. Amélie comienza a orquestar pequeñas intervenciones en la vida de las personas, con resultados sorprendentes y conmovedores.
+</Sinopsis>
+<URL>https://www.imdb.com/title/tt0211915/</URL>
+<Clasificacion>Comedia romántica para todos los públicos</Clasificacion>
+</Pelicula>
+
+<Pelicula id="5">
+<Titulo>Cinema Paradiso</Titulo>
+<Pais>Italia</Pais>
+<Duracion>155 minutos</Duracion>
+<Director>Giuseppe Tornatore</Director>
+<Interpretes>Philippe Noiret, Jacques Perrin, Salvatore Cascio, Agnese Nano, Marco Leonardi, Enzo Cannavale, Leopoldo Trieste, Antonella Attili, Pupella Maggio...</Interpretes>
+<Sinopsis>
+Salvatore Di Vita es un cineasta de éxito que regresa a su Sicilia natal después de muchos años. 
+Allí recuerda su infancia y su pasión por el cine, que nació gracias a Alfredo, el proyeccionista del Cinema Paradiso, el único cine del pueblo. 
+Salvatore también recuerda su amor de juventud por Elena, una chica del pueblo.
+</Sinopsis>
+<URL>https://www.imdb.com/title/tt0095765/</URL>
+<Clasificacion>Drama para todos los públicos</Clasificacion>
+</Pelicula>
+</cine>

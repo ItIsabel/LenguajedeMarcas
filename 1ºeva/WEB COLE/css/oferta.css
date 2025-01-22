@@ -1,0 +1,27 @@
+#oferta span{
+    display: flex;
+    margin: 3%;
+    background-color: #fbe2e2;
+    border-radius: 10px;
+    color: #820101;
+    overflow: hidden;
+    align-items: center;
+}
+#oferta li{
+    list-style-type: circle;
+    margin: auto 0;
+}
+
+#oferta ul{
+    padding-left: 6rem;
+}
+#oferta span:hover{
+    box-shadow: 0 0 20px #820101 ;
+    cursor: pointer;
+    font-size: large;
+}
+button{
+    height: 100%;
+    align-self: center;
+    display: flex;
+}
